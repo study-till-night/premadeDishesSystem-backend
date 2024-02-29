@@ -1,0 +1,6 @@
+/.idea/
+/src/main/resources/jdbc.properties
+/target/
+/logs/
+
+/src/main/resources/log4j2.xml
