@@ -1,4 +1,4 @@
-FROM maven:3.5-jdk-17-alpine as builder
+FROM maven:3.5-jdk-8-alpine as builder
 # Copy local code to the container image.
 ENV PATH /server
 ENV APP_PATH  /server/target/premade_dished_system.jar
